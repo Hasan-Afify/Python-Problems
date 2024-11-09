@@ -7,6 +7,8 @@ Problem 2: Write a Python program to guess a number between 1 and 9.
 Problem 3: Write a Python program that prints all the numbers from 0 to 6 except 3 and 6.
 -----------------------------------------------------------------------------------------
 Problem 4.1: Write a Python program to construct the following pattern, using a nested for loop.
+------------------------------------------------------------------------------------------------
+
 * 
 * * 
 * * * 
@@ -16,7 +18,11 @@ Problem 4.1: Write a Python program to construct the following pattern, using a 
 * * * 
 * * 
 *
+
+--------------------------------------------------------------------------------------------------
 Problem 4.2: Write a Python program to construct the following pattern, using a nested for loop.
+------------------------------------------------------------------------------------------------
+
 *  
 * *  
 * * *  
@@ -26,9 +32,13 @@ Problem 4.2: Write a Python program to construct the following pattern, using a 
 * * * * *  
 * * * *  
 * * *  
-* *  
-*  
+* *
+*
+
+------------------------------------------------------------------------------------------------
 Problem 4.3: Write a Python program to construct the following pattern, using a nested for loop.
+------------------------------------------------------------------------------------------------
+       
          * 
         * * 
        * * * 
@@ -43,12 +53,14 @@ Problem 4.3: Write a Python program to construct the following pattern, using a 
        * * * 
         * * 
          *
-  ---------------------------------------------------------------------------------------------------------------------
+         
+---------------------------------------------------------------------------------------------------------------------
 Problem 5: Write a Python program that accepts a word from the user and reverses it. 
 ------------------------------------------------------------------------------------
 Problem 6: Write a Python program to count the number of even and odd numbers in a series of numbers.
 -----------------------------------------------------------------------------------------------------
 Problem 7: Write a Python program to print the the first alphabet pattern 'A-Z' in your name .
+------------------------------------------------------------------------------------------------
   ***                                                                   
  *   *                                                                  
  *   *                                                                  
@@ -83,6 +95,7 @@ Problem 18: Validating User Input with While Loop.
 Problem 19: Finding the Sum of Digits of a Number.
 --------------------------------------------------
 Problem 20: Checking for Palindrome Strings.
+--------------------------------------------
 --------------------------------------------
 Problem 21: Creating a Dictionary from Two Lists.
 -------------------------------------------------
