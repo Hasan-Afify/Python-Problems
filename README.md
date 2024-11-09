@@ -50,3 +50,5 @@ Problem 21: Creating a Dictionary from Two Lists.
 Problem 22: Simulating a Simple Password Check.
 -----------------------------------------------
 Problem 23: Generating a Multiplication Table for a Given Number.
+------------------------------------------------------------------
+
