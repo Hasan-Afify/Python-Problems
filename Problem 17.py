@@ -1,6 +1,7 @@
-def fact(n):
-    if n == 0:  
-        return 1
-    else:
-        return n * fact(n - 1)  
-print(fact(5))
+def fact(n, current=1, factorial=1):
+    if current > n:
+        return factorial
+    return fact(n, current + 1, factorial * current)
+
+print(fact(5))  
+
